@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Soumik
+- 👀 I’m interested in a ... I'm not so sure 
+- 🌱 I’m currently learning RaactJs
+- 💞️ I’m looking to collaborate on PLT
