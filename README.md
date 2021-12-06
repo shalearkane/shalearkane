@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Soumik
-- 👀 I’m interested in a ... I'm not so sure 
-- 🌱 I’m currently learning RaactJs
-- 💞️ I’m looking to collaborate on PLT
+- 👀 I’m interested in a PLT and Algorithms
+- 🌱 I’m currently reading Crafting Interpreters
+- 💞️ I’m looking to collaborate on your next big idea!
