@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Soumik
-- 👀 I’m interested in a PLT and Algorithms
-- 🌱 I’m currently reading Crafting Interpreters
-- 💞️ I’m looking to collaborate on your next big idea!
+- 👀 I’m interested in Systems Software and Parallel Computing
+- 🌱 I’m currently studying Computer Science and Engineering at Indian Institute of Technology, Varansi (BHU)
+- 💞️ I’m looking to build the next scalable web
